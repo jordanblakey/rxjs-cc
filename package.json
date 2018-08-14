@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:jordanblakey/rxjs-cc.git",
-  "author": "Jordan Blakey <jordan.t.blakey@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "rxjs": "^6.2.2",
