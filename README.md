@@ -20,3 +20,12 @@
 - Filtering and piping observables
 - Promises to observables
 - Error handling
+
+## Observable types
+
+- Manual
+- From Event: emit values on DOM events
+- Subject
+- Behavior Subject: Replays the last value emitted on subscription
+- Replay Subject: Replays emitted values on subscription
+- Async Subject: Based on completion signal
